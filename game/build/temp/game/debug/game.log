@@ -1,0 +1,23 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  g_items.c
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(39,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(40,67): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(41,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(175,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(179,71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(206,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(216,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(254,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(332,39): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(359,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(374,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(389,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(404,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(651,75): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(666,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(738,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\g_items.c(782,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1278,5): warning MSB8012: TargetPath(C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\.\./build/binaries/debug\game.dll) does not match the Linker's OutputFile property value (D:\Games\Quake II (has all the old files, but it's kinda broken)\squats\gamex86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1280,5): warning MSB8012: TargetName(game) does not match the Linker's OutputFile property value (gamex86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\./build/binaries/debug\gamex86.lib and object .\./build/binaries/debug\gamex86.exp
+  game.vcxproj -> C:\Users\Andrei\Desktop\q2 source codes\squats [source code]\game\.\./build/binaries/debug\game.dll
